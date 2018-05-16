@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+.container {
+  display: flex;
+  border: 3px solid black;
+}
+.box {
+  display: flex;
+  border: 2px solid black;
+  justify-content: center;
+  justify-content: space-evenly;  
+}
+.home {
+  
+}
+.menu {
+  
+}
+.order {
+  
+}
+.header {
+  display: flex;
+  border: 2px solid black;
+  flex-direction: column;
+}
+.name {
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+}
+.social {
+
+}
+.info {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.hours {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  flex-direction: column;
+}
+.extra {
+  margin-bottom: 20px;
+}
+p {
+  display: flex;
+  justify-content: center;
+  line-height: 20px;
+}
+.locations {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+.img_main {
+  display: flex;
+  justify-content: center;
+}
+.img_sec {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-top: 40px;
+}
+.pic1 {
+  height: 220px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.pic2 {
+  height: 220px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.footer {
+  display: flex;
+  border: 2px solid black;
+  
+}
